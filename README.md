@@ -1,2 +1,2 @@
 # ai-agents-learning-journey
-My learning journey in AI Agents and Automation
+This repository documents my learning journey in AI Agents and Automation. I will add projects, notes, workflows, and useful resources as I learn.
